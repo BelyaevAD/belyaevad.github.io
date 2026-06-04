@@ -146,10 +146,10 @@ p {
 }
 
 h1 {
-  max-width: 820px;
+  max-width: 720px;
   margin-bottom: 24px;
-  font-size: clamp(3.8rem, 8vw, 7.6rem);
-  line-height: 0.88;
+  font-size: clamp(3rem, 5.2vw, 5rem);
+  line-height: 1.04;
   letter-spacing: 0;
 }
 
