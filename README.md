@@ -1,8 +1,10 @@
 # Alexander Belyaev
 
-Static personal landing page published through GitHub Pages at:
+Personal landing page on GitHub Pages:
 
 https://belyaevad.github.io/
 
-The page presents public professional information, engineering focus areas, selected technologies,
-and contact links.
+Short public profile: business platforms (CRM / ERP / LMS), integrations, and practical AI tooling.
+Also links to open projects — TextTools, Beget Hosting MCP, Boosty IT Catalog — and to [belyaevad.ru](https://belyaevad.ru/).
+
+Static HTML/CSS only. No backend, no forms, no secrets in this repo.

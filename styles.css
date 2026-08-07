@@ -410,7 +410,7 @@ h3 {
 
 .project-row {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 16px;
 }
 
@@ -447,6 +447,14 @@ h3 {
   grid-template-columns: minmax(0, 0.9fr) minmax(280px, 0.55fr);
   gap: 42px;
   border-top: 1px solid var(--line);
+}
+
+.footer-note {
+  margin: 12px 0 0;
+  max-width: 36rem;
+  color: var(--muted);
+  font-size: 0.98rem;
+  line-height: 1.6;
 }
 
 .footer-links {
