@@ -8,3 +8,5 @@ Short public profile: business platforms (CRM / ERP / LMS), integrations, and pr
 Links to open projects — TextTools, Beget Hosting MCP, Boosty IT Catalog, Boosty Dolls Catalog — and to [belyaevad.ru](https://belyaevad.ru/).
 
 Static HTML/CSS only. No backend, no forms, no secrets in this repo.
+
+The English version is the default at `/`; the Russian version is available at `/ru/`.
