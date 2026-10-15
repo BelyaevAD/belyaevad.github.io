@@ -4,7 +4,10 @@ Personal landing page on GitHub Pages:
 
 https://belyaevad.github.io/
 
-Short public profile: business platforms (CRM / ERP / LMS), integrations, and practical AI tooling.
+Short bilingual public profile: backend architecture, enterprise integrations, technical leadership,
+and open-source tools. The professional positioning and core stack follow the public
+[Hirify profile](https://hirify.me/belyaevad).
+
 Links to open projects — TextTools, Beget Hosting MCP, Boosty IT Catalog, Boosty Dolls Catalog — and to [belyaevad.ru](https://belyaevad.ru/).
 
 Static HTML/CSS only. No backend, no forms, no secrets in this repo.
